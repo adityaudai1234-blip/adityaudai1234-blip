@@ -1,302 +1,255 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Aditya%20Karippadath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20|%20FastAPI%20|%20PostgreSQL&descAlignY=55"/>
+# 👋 Hey, I'm Aditya Karippadath
 
-# 👋 Hey, I'm Aditya 
+### Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Expert;FastAPI+Backend+Developer;PostgreSQL+%26+Database+Architect;Building+Scalable+Web+Applications;Open+Source+Contributor" />
+**MERN Stack · FastAPI · PostgreSQL · Cloud & DevOps**
 
-<img src="https://komarev.com/ghpvc/?username=Aditya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+*Code. Build. Ship. Repeat.*
 
 </div>
-
-<p align="center">
-  <img src="./images/Monitor.svg" alt="Terminal Banner" width="800"/>
-</p>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Specialist;FastAPI+Backend+Engineer;PostgreSQL+Database+Designer;Building+Scalable+Products" />
 
 ---
 
-<div align="center">
-<img width="450" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</div>
+## 📖 Table of Contents
 
-<p align="center">
-  <img src="./images/terminal.svg" alt="Terminal Banner" width="800"/>
-</p>
+- [About Me](#-about-me)
+- [Quick Snapshot](#-quick-snapshot)
+- [Tech Stack](#-tech-stack)
+- [What I Build](#-what-i-build)
+- [Core Skills in Detail](#-core-skills-in-detail)
+- [How I Structure Applications](#-how-i-structure-applications)
+- [Development Workflow](#-development-workflow)
+- [Engineering Principles](#-engineering-principles)
+- [Open Source](#-open-source)
+- [Currently Learning](#-currently-learning)
+- [Roadmap](#-roadmap)
+
+---
 
 ## 🚀 About Me
 
+I'm a **Full Stack Developer** who enjoys taking a product from a rough idea to a deployed, working application. I work across the entire stack: crafting responsive React interfaces, designing secure and scalable APIs, modeling data in both SQL and NoSQL databases, and shipping everything through automated pipelines.
+
+My main stack is **MERN** (MongoDB, Express, React, Node.js), complemented by **FastAPI** and **PostgreSQL** when a project calls for Python's ecosystem, strict typing, or relational data integrity. Right now I'm focused on **building scalable SaaS applications** and deepening my knowledge of system design and cloud architecture.
+
 ```javascript
 const aditya = {
-    role: "Full Stack Developer",
-    
-    frontend: [
-        "React.js",
-        "Next.js",
-        "TypeScript",
-        "Tailwind CSS",
-        "Redux",
-        "Framer Motion"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "FastAPI",
-        "REST APIs",
-        "Authentication"
-    ],
-
-    databases: [
-        "MongoDB",
-        "PostgreSQL",
-        "Redis"
-    ],
-
-    devops: [
-        "Docker",
-        "GitHub Actions",
-        "Vercel",
-        "Render",
-        "AWS"
-    ],
-
-    currentFocus: "Building scalable SaaS applications",
-
-    motto: "Code. Build. Ship. Repeat."
-}
+  role: "Full Stack Developer",
+  primaryStack: ["MongoDB", "Express", "React", "Node.js"],
+  alsoWorksWith: ["Next.js", "FastAPI", "PostgreSQL", "Redis"],
+  currentFocus: "Building scalable SaaS applications",
+  learning: ["System Design", "Microservices", "Kubernetes"],
+  openSource: true,
+  motto: "Code. Build. Ship. Repeat.",
+};
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaKarippadath/AdityaKarippadath/main/images/cmd.svg" alt="Terminal Banner" width="800"/>
-</p>
+---
+
+## ⚡ Quick Snapshot
+
+| | |
+| :-- | :-- |
+| 🔭 **Currently working on** | Scalable SaaS applications |
+| 🌱 **Currently learning** | System Design, Microservices, Kubernetes, Advanced PostgreSQL, Cloud Architecture |
+| 💬 **Ask me about** | React, Next.js, Node.js, FastAPI, MongoDB, PostgreSQL, Docker, REST API design |
+| 🧰 **Daily drivers** | VS Code, Git, GitHub, Docker, Linux |
+| ☁️ **Deploy to** | Vercel, Render, AWS |
+| 🎯 **Goal** | Turning ideas into scalable products through clean code |
 
 ---
 
-# 💻 Tech Arsenal
+## 💻 Tech Stack
 
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,html,css" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
-
-### Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel,vscode,linux" />
-
-</div>
+| Area | Technologies |
+| :-- | :-- |
+| 🌐 **Frontend** | React.js · Next.js · TypeScript · JavaScript (ES6+) · Tailwind CSS · Redux · Framer Motion · HTML5 · CSS3 |
+| ⚙️ **Backend** | Node.js · Express.js · FastAPI · Python · REST APIs · JWT Authentication · WebSockets |
+| 🗄️ **Databases** | MongoDB · PostgreSQL · Redis |
+| 🚀 **DevOps & Cloud** | Docker · GitHub Actions (CI/CD) · AWS · Vercel · Render · Linux Servers |
+| 🛠️ **Tools** | Git · GitHub · VS Code · Postman-style API testing |
 
 ---
 
-# 📊 GitHub Analytics
+## 🎯 What I Build
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaKarippadath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKarippadath&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKarippadath&theme=tokyonight&hide_border=true"/>
-
-</div>
+| Category | Description |
+| :-- | :-- |
+| 🧩 **Full Stack SaaS Applications** | Multi-feature products with user accounts, dashboards, and subscription-ready architecture |
+| 📊 **Enterprise Dashboards** | Data-heavy interfaces with tables, filters, charts, and role-based views |
+| 🔐 **Authentication Systems** | Secure login, registration, token handling, protected routes, and role-based access |
+| 🔌 **REST APIs** | Clean, versioned, well-documented endpoints with validation and error handling |
+| 🤖 **AI-Powered Applications** | Web apps that integrate AI workflows into real user-facing features |
+| 🛠️ **Admin Panels** | Internal tools for managing users, content, orders, and system settings |
+| 🛒 **E-Commerce Platforms** | Product catalogs, carts, checkout flows, and order management |
+| ⚡ **Real-Time Applications** | Live updates, notifications, and chat-style features using WebSockets |
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKarippadath&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaKarippadath&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# ⚡ Current Expertise
-
-<table>
-<tr>
-<td width="50%">
+## 🧠 Core Skills in Detail
 
 ### 🌐 Frontend Development
 
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Responsive UI
-- State Management
-
-</td>
-
-<td width="50%">
+- Building reusable, component-driven interfaces with **React.js** and **Next.js**
+- Type-safe code with **TypeScript** for fewer bugs and better maintainability
+- Fast, consistent styling with **Tailwind CSS** and fully responsive layouts
+- Predictable global state with **Redux**, plus local state and context where it fits
+- Smooth, purposeful animations and transitions using **Framer Motion**
+- Server-side rendering and static generation with Next.js for performance and SEO
 
 ### ⚙️ Backend Development
 
-- Node.js
-- Express.js
-- FastAPI
-- REST APIs
-- JWT Authentication
-- WebSockets
+- Designing RESTful APIs with **Node.js + Express** and **Python + FastAPI**
+- Request validation, centralized error handling, and consistent response formats
+- **JWT-based authentication** and authorization with role-based access control
+- Real-time communication using **WebSockets**
+- Writing clean service and controller layers that are easy to test and extend
+- Leveraging FastAPI's automatic interactive API documentation and async support
 
-</td>
-</tr>
+### 🗄️ Database Engineering
 
-<tr>
-<td>
+- **MongoDB:** document modeling, indexing, and powerful **aggregation pipelines**
+- **PostgreSQL:** relational schema design, joins, constraints, and **query optimization**
+- **Redis:** caching frequently accessed data and speeding up response times
+- Choosing the right database for the job: flexibility of documents vs. integrity of relations
 
-### 🗄 Database Engineering
+### 🚀 Deployment & DevOps
 
-- MongoDB
-- PostgreSQL
-- Query Optimization
-- Database Design
-- Aggregation Pipelines
-
-</td>
-
-<td>
-
-### 🚀 Deployment
-
-- Docker
-- CI/CD
-- GitHub Actions
-- Vercel
-- AWS
-- Linux Servers
-
-</td>
-</tr>
-</table>
+- Containerizing applications with **Docker** for consistent environments
+- Automating testing and deployment with **GitHub Actions** CI/CD pipelines
+- Shipping frontends to **Vercel** and backends to **Render** or **AWS**
+- Working comfortably in **Linux** environments and managing servers from the terminal
 
 ---
 
-# 🎯 What I Build
+## 🏗️ How I Structure Applications
 
-✅ Full Stack SaaS Applications
+A typical full stack project of mine follows a layered architecture:
 
-✅ Enterprise Dashboards
+```text
+┌──────────────────────────────────────────────────────────┐
+│                         CLIENT                           │
+│        React / Next.js · TypeScript · Tailwind CSS       │
+│              Redux · Framer Motion · Forms               │
+└────────────────────────────┬─────────────────────────────┘
+                             │  HTTPS · REST · WebSockets
+┌────────────────────────────▼─────────────────────────────┐
+│                       API LAYER                          │
+│        Express.js (Node)  ·  FastAPI (Python)            │
+│     Routing · Validation · Auth (JWT) · Middleware       │
+└────────────────────────────┬─────────────────────────────┘
+                             │
+┌────────────────────────────▼─────────────────────────────┐
+│                    BUSINESS LOGIC                        │
+│          Services · Controllers · Domain Rules           │
+└──────────┬─────────────────────────────────┬─────────────┘
+           │                                 │
+┌──────────▼───────────┐          ┌──────────▼─────────────┐
+│     PRIMARY DATA     │          │     CACHE / QUEUES     │
+│  MongoDB · PostgreSQL│          │         Redis          │
+└──────────────────────┘          └────────────────────────┘
 
-✅ Authentication Systems
+        Docker · GitHub Actions · Vercel · Render · AWS
+```
 
-✅ REST APIs
+### 📁 Typical Backend Folder Layout
 
-✅ AI Powered Applications
-
-✅ Admin Panels
-
-✅ E-Commerce Platforms
-
-✅ Real-Time Applications
-
----
-
-# 🌱 Currently Learning
-
-```yaml
-learning:
-  - System Design
-  - Microservices
-  - Kubernetes
-  - Advanced PostgreSQL
-  - Cloud Architecture
+```text
+project/
+├── src/
+│   ├── config/         # environment, database, constants
+│   ├── routes/         # route definitions
+│   ├── controllers/    # request/response handling
+│   ├── services/       # business logic
+│   ├── models/         # database schemas
+│   ├── middleware/     # auth, validation, error handling
+│   ├── utils/          # helpers and shared utilities
+│   └── app.js
+├── tests/
+├── Dockerfile
+├── docker-compose.yml
+└── .github/workflows/  # CI/CD pipelines
 ```
 
 ---
 
-# 📌 Featured Projects
+## 🔄 Development Workflow
 
-### 🚀 Full Stack Applications
-Building modern web applications using MERN Stack and FastAPI.
-
-### ⚡ Backend APIs
-Scalable REST APIs with authentication, authorization and database optimization.
-
-### 🧠 AI Integrations
-Combining modern web technologies with AI-powered workflows.
+1. **🧭 Plan:** break the idea into features, user flows, and data models
+2. **🗄️ Design:** sketch the database schema and define API contracts first
+3. **⚙️ Build the backend:** endpoints, validation, authentication, and business logic
+4. **🌐 Build the frontend:** reusable components, state management, and API integration
+5. **🧪 Test:** verify endpoints, edge cases, and user flows before moving on
+6. **📦 Containerize:** package the app with Docker for consistent environments
+7. **🚀 Ship:** automate build and deploy through GitHub Actions
+8. **🔁 Iterate:** gather feedback, refine, optimize, and repeat
 
 ---
 
-# 🤝 Let's Connect
+## 🧭 Engineering Principles
+
+| Principle | What it means to me |
+| :-- | :-- |
+| 🧼 **Clean code** | Readable names, small functions, and code that explains itself |
+| 🧱 **Separation of concerns** | Routes, logic, and data access each have one clear job |
+| 🔐 **Security first** | Validate every input, protect every route, never trust the client |
+| 📈 **Built to scale** | Design for growth: indexes, caching, and stateless services |
+| ♻️ **Reusability** | Build components and utilities once, use them everywhere |
+| 🚢 **Ship early, improve often** | A working product in users' hands beats a perfect one on my laptop |
+| 📚 **Always learning** | Every project is a chance to learn something new |
+
+---
+
+## 🌍 Open Source
+
+I'm an active **open source contributor** and enjoy giving back to the developer community. I care about writing contributions that are well-scoped, properly tested, and easy for maintainers to review.
+
+---
+
+## 🌱 Currently Learning
+
+```yaml
+learning:
+  - System Design:        scalability, load balancing, caching strategies, trade-offs
+  - Microservices:        service boundaries, communication patterns, resilience
+  - Kubernetes:           container orchestration, deployments, scaling
+  - Advanced PostgreSQL:  indexing strategies, query planning, transactions
+  - Cloud Architecture:   designing reliable, cost-aware systems on AWS
+```
+
+---
+
+## 🗺️ Roadmap
+
+### ✅ Solid Foundations
+
+- [x] Frontend development with React.js, Next.js, and TypeScript
+- [x] Backend APIs with Node.js, Express, and FastAPI
+- [x] Databases: MongoDB, PostgreSQL, and Redis
+- [x] Containerization with Docker
+- [x] CI/CD with GitHub Actions
+
+### 🔨 In Progress
+
+- [ ] System design fundamentals
+- [ ] Microservices architecture
+- [ ] Advanced PostgreSQL techniques
+- [ ] Cloud architecture on AWS
+
+### 🔭 Up Next
+
+- [ ] Kubernetes for orchestration and scaling
+- [ ] Production-grade SaaS with billing and multi-tenancy
+- [ ] Deeper AI integrations in real-world applications
+
+---
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+### ⚡ "Turning ideas into scalable products through clean code." ⚡
 
-<a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://portfolio-link.com">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-</a>
+**Thanks for stopping by! 🚀**
 
 </div>
-
----
-
-## ⏱️ Wakatime Coding Stats
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AdityaKarippadath&theme=tokyonight"/>
-
----
-
-
-## 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-
-
----
-
-<div align="center">
-
-### ⚡ "Turning ideas into scalable products through clean code."
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaKarippadath/AdityaKarippadath/output/github-contribution-grid-snake.svg" />
-</p>
